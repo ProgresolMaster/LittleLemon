@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LittleLemon</string>
+    <string name="home_title">Let\'s get to know you</string>
+    <string name="home_legend">Personal Information</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_logout">Log out</string>
+    <string name="LITTLE_LEMON">LITTLE_LEMON</string>
+    <string name="FIRST_NAME">FIRST_NAME</string>
+    <string name="LAST_NAME">LAST_NAME</string>
+    <string name="EMAIL">EMAIL</string>
+</resources>
